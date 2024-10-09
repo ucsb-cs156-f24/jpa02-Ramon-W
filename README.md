@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f24/jpa02-Ramon-W
 
-Deployed at: https://jpa02-ramon-w.dokku-07.cs.ucsb.edu/info
+Deployed at: https://jpa02-ramon-w.dokku-07.cs.ucsb.edu
 
 # About this repo
 
